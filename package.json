@@ -1,0 +1,25 @@
+{
+  "name": "webdriver-encuestame-mobile",
+  "tags": [
+    "web",
+    "automation",
+    "browser",
+    "javascript",
+    "encuestame"
+  ],
+  "version": "0.0.1",
+  "author": "Juan Picado <juanpicado19@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/encuestame/webdriver"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-as-promised": "^4.1.1",
+    "colors": "^0.6.2",
+    "grunt": "^0.4.5",
+    "grunt-mocha-webdriver": "^1.0.6",
+    "phantomjs": "^1.9.7-8",
+    "wd": "^0.2.24"
+  }
+}
